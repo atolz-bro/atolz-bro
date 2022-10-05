@@ -1,6 +1,6 @@
 👋 Hi, I’m Elijah, I like understanding how things work
 ### My Skills
-I most convinient with Java, and i'm currently learning the Android Framework and Kotlin; I have some expereince with HTML, CSS and Javascript too.
+I'm most convinient with #Java, and i'm currently learning the Android Framework and Kotlin; I have some expereince with HTML, CSS and Javascript too.
 - Java 
 - Kotlin
 - HTML, CSS, JavaScript
