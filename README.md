@@ -1,6 +1,6 @@
-👋 Hi, I’m Elijah, I like asking questions and understanding how things work :)
+👋 Hi, I’m Elijah, I like understanding how things work :)
 ### My Skills
-I'm good with Java, and I'm currently learning the Android Framework and Kotlin; I have some expereince with HTML, CSS and Javascript too.
+I'm good with Java, and I'm currently learning the Android Framework and Kotlin; I have some experience with HTML, CSS, and Javascript too.
 - Java 
 - Android Framework(Java/Kotlin)
 - Kotlin
