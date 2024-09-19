@@ -1,10 +1,11 @@
 👋 Hi, I’m Elijah, I like understanding how things work :)
 ### My Skills
-I'm good with Java, and I'm currently learning the Android Framework and Kotlin; I have some experience with HTML, CSS, and Javascript too.
+I'm good with Java, Kotlin, the Android Framework, and Spring Boot; I have some experience with HTML, CSS, and Javascript too.
 - Java 
 - Android Framework(Java/Kotlin)
 - Kotlin
 - HTML, CSS, JavaScript
+- Spring Boot
 
 <!---
 atolz-bro/atolz-bro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
