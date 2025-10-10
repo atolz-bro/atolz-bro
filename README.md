@@ -1,12 +1,14 @@
 👋 Hi, I’m Elijah, I like understanding how things work :)
 ### My Skills
-I'm good with Java, Kotlin, the Android Framework, Spring Boot, Express, HTML, CSS, and Javascript.
+I'm good with Java, Kotlin, the Android Framework, Spring Boot, Express,Next.js, HTML, CSS, and Javascript.
 I am also very knowledgeable in cryptography and have experience with Public Key Infrastructure system setup and certificate lifecycle management
-- Java 
+- Java
+- Javascript
 - Android Framework(Java/Kotlin)
 - Kotlin
 - HTML, CSS, JavaScript
 - Spring Boot
+- Next.Js
 - Cryptography
 
 <!---
