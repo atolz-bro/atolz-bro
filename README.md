@@ -5,6 +5,7 @@ Knowledgeable in cryptography and have experience with Public Key Infrastructure
 - Java
 - Javascript
 - Android Framework(Java/Kotlin)
+- React Native (Expo)
 - Kotlin
 - HTML, CSS, JavaScript
 - Spring Boot
